@@ -11,16 +11,16 @@
     text-decoration: none;
     cursor: pointer;
 }
-.grid{
-    display: grid;
-    grid-template-columns: 500px 500px;
-    gap: 20px;
+.flex{
+    display: flex;
     justify-content: center;
+    gap:20px;
+    flex-wrap: wrap;
 }
 
 .item{
-    background-color: #ebebeb;
-    border: 1px solid rgb(169, 169, 169);
+    background-color: #ecececec;
+    border: 1px solid #bbb;
     padding: 10px;
     border-radius: 5px;
 }
