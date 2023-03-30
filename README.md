@@ -1,3 +1,3 @@
 # Marcação e Layout Web 
 
-- Professor Cassio 
+- Professor Cássio Neto 
