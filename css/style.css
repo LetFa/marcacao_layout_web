@@ -1,0 +1,11 @@
+
+.tamanho {
+  font-size: 50px;
+}
+#cor-azul{
+  background-color: rgb(219, 39, 108);
+}
+.cor-vermelha{
+  background-color:rgb(82, 82, 238);
+  color: #fff;
+}
