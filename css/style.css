@@ -10,18 +10,6 @@
   color: #fff;
 }
 
-
-li a{
-  background-color: black;
-  color: #fff;
-  padding: 10px;
-}
-li a:hover{
-  background-color: tomato;
-  color: black;
-}
-
-
 div p strong a{
   color: green;
 }
