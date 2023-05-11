@@ -1,0 +1,41 @@
+a:link{
+    color:tomato;
+    background-color:#333;
+    text-decoration:none;
+}
+
+a:visited{
+    color:#333;
+    background-color:tomato;
+    text-decoration:none;
+}
+
+a:hover{
+    font-size: 20px;
+     color: blue;
+     background-color: black;
+     border: dashed 3px blue;
+}
+
+a:active{
+    color: #fff;
+}
+
+.pseudo{
+    background-color: green;
+    height: 30px;
+    width: 100px;
+    transition: 2s;
+}
+
+.pseudo:hover{
+   background-color: black;
+   height: 50px;
+   width: 200px;
+   border-radius: 10px;
+}
+
+input:focus{
+  background-color: #333;
+  height: 30px;
+}
